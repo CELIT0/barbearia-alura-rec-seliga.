@@ -52,7 +52,9 @@ em strong {
 
 .itens {
 
-    font-style: italic
+    font-style: italic 
+        
+    color: red ;   
 
 }
 
@@ -74,7 +76,7 @@ h3 {
 
 ul {
 
-    font-size: 40px;
+    font-size: 70px;
 
     display: inline-block;
 
@@ -88,6 +90,6 @@ ul {
 
 .imagembeneficios {
 
-    width: 30%;
+    width: 25%;
 
 }
