@@ -54,7 +54,7 @@ em strong {
 
     font-style: italic 
         
-    color: red ;   
+    color: #FF0000 ;   
     
     font-size: 20px;
 
@@ -74,11 +74,14 @@ h3 {
     
     font-size: 20px;
 
+    color: red;
 }
 
   
 
 ul {
+    
+    color: red;
 
     font-size: 20px;
 
