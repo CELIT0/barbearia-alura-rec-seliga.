@@ -63,8 +63,6 @@ em strong {
 }
 
 h3 {
-    
-    color: black ;
 
     text-align: center;
 
@@ -72,7 +70,7 @@ h3 {
 
 .beneficios {
 
-    background: #000000;
+    background: white ;
 
     pedding-right: 20px;
     
