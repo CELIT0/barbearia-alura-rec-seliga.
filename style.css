@@ -56,7 +56,7 @@ em strong {
         
     color: red ;   
     
-    font-size: 40px;
+    font-size: 20px;
 
 }
 
@@ -72,7 +72,7 @@ h3 {
 
     pedding-right: 20px;
     
-    font-size: 40px;
+    font-size: 20px;
 
 }
 
@@ -80,7 +80,7 @@ h3 {
 
 ul {
 
-    font-size: 40px;
+    font-size: 20px;
 
     display: inline-block;
 
@@ -94,6 +94,6 @@ ul {
 
 .imagembeneficios {
 
-    width: 70%;
+    width: 50%;
 
 }
